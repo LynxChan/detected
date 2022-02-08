@@ -1,5 +1,5 @@
 # detected
-Adds the (((detected))) markup to LynxChan 2.6
+Adds the (((detected))) markup/markdown to LynxChan 2.7
 
 <b>Installation instructions:</b>
 
